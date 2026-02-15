@@ -1,2 +1,3 @@
-# luchshee-po-dlya-upravleniya-zapasami
-Простое и интуитивно понятное ПО для управления запасами на нескольких каналах продаж.
+# Project
+
+Generated with TrendHunter AI
